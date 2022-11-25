@@ -1,9 +1,9 @@
 # Test - verze A 
 
 1. Na snímku je vidět výpis specifického souboru. Co výpis znamená?
-[![](./1.png)]
 
-![](https://codimd.s3.shivering-isles.com/demo/uploads/e23899ad-21b0-4298-92b5-591075677a3d.png)
+![](./1.png)
+
 
 ``` 
 a) Seznam klíčů hostitelů (serverů), který slouží k neověřenému připojení
@@ -14,7 +14,7 @@ d) Seznam uložených šifrovaných hesel k veřejným bezdrátovým sítím
 
 2. Analyzujte snímek, odpovězte ve správném pořadí.
 
-![](https://codimd.s3.shivering-isles.com/demo/uploads/c956c2cc-9220-41a2-8d58-77332f005169.png)
+![](./2.png)
 
     1. 
     A) Analýza našla celkem 6 kritických zranitelností
