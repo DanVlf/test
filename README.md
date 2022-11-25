@@ -1,6 +1,7 @@
 # Test - verze A 
 
 1. Na snímku je vidět výpis specifického souboru. Co výpis znamená?
+[![](./1.png)]
 
 ![](https://codimd.s3.shivering-isles.com/demo/uploads/e23899ad-21b0-4298-92b5-591075677a3d.png)
 
