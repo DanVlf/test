@@ -24,7 +24,7 @@ d) Seznam uložených šifrovaných hesel k veřejným bezdrátovým sítím
     A) Zranitelnosti byly nalezeny na 2 vrstvách
     B) Zranitelnosti byly nalezeny na 1 vrstvě
     
-    3. Zranitelnost CVE-2021-27404 má kritickou zranitelnost
+    3. Zranitelnost CVE-2021-27404 je kritická zranitelnost
     A) LEŽ
     B) PRAVDA
 
@@ -33,5 +33,29 @@ a) BAB
 b) ABA
 c) ABB
 d) BBA
+```
+
+3. V terminláu je vypsán veškerý obsah složky **hax**. Na soubor **soulution.txt** byla použita operace. Dokažete určit jaká?
+
+
+![](./3.png)
 
 ```
+a) Strings
+b) Symlink
+c) File
+d) Whois
+
+```
+
+4. Co vidíme na snímku?
+
+![](./4.png)
+
+
+a) POST login request
+b) GET register request
+c) GET login request
+d) POST resgister request
+
+
