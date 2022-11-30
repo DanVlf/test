@@ -71,6 +71,7 @@ c) Nástroj neextrahuje nic, protože vybraný filtr extrahovaných souboru je �
 d) Nástroj extrahuje soubor, jen pokud název obsahuje "*"
 ```
 6. Jakou akci pozorujeme na snímku?
+
 ![](6.png)
 
 ```
