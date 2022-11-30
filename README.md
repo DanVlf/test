@@ -52,10 +52,43 @@ d) Whois
 
 ![](./4.png)
 
-
+```
 a) POST login request
 b) GET register request
 c) GET login request
 d) POST resgister request
+```
 
+5. K čemu slouží použitý nástroj na snímku?
+
+![](./5.png)
+
+
+```
+a) Nástroj extrahuje všechny známé souborové typy
+b) Nástroj extrahuje jen specifický typ souboru
+c) Nástroj neextrahuje nic, protože vybraný filtr extrahovaných souboru je špatně určený
+d) Nástroj extrahuje soubor, jen pokud název obsahuje "*"
+```
+6. Jakou akci pozorujeme na snímku?
+![](6.png)
+
+```
+a) Soubor "script.py" má opravnění ke spuštění, ty jsou mu odebrána a "script.py" nejde následně spustit
+b) Soubor "script.py" nemá opravnění ke spuštění, ty jsou mu přidána a     "script.py" nejde následně spustit
+c) Soubor "script.py" má opravnění ke spuštění, ale uživatel ne
+d) Soubor "script.py" nemá opravnění ke spuštění, ty jsou mu přidána a "script.py" jde následně spustit
+```
+
+7. Na snímku vidíme informace o nedávno vytvořeném podvodném webu **alza-cz.pro**. Dokážete vyčíst informace o podvodné doméně? 
+
+
+![](7.png)
+
+
+```
+a) Doména je registrována s CZ doménou, takže její původ je z ČR
+b) Většina údajů je z důvodu soukromí skryta, takže nejde získat informace o původu hostingu
+c) Doména je registrována přes Ruský Registrátor, tudíž je doména původem z Ruska 
+```
 
